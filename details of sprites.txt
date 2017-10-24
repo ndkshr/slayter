@@ -1,0 +1,26 @@
+#round demon
+
+pixels = 50 x 50
+
+#square demon
+
+pixels = 60 x 60
+
+#long demon
+ pixels =  150 x30
+
+#user head
+
+pixels = 20 x 20
+
+#treasure
+
+pixels = 40 x 40
+
+#star demon
+
+pixels= 100 x 100
+
+#quad demon 
+pixels = 150 x 150
+
